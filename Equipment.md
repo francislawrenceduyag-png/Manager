@@ -31,7 +31,6 @@ public class Equipment {
 //Section below copy paste sa main.
 //Equipment eq = new Equipment(22);
 
-// Or with both values
 //Resources myResources = new Resources();
 //Equipment eq2 = new Equipment(myResources, 22);
 
