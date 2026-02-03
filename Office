@@ -1,0 +1,15 @@
+class Office{
+    int employeePresnet;
+    int shilfTime;
+
+    office(int employeePresent, int shilfTime) {
+        this.employeePresent = employeePresent;
+        this shilfTime = shilfTime;
+    }
+double totalEmployee()  {
+return employeePresent;
+}
+double totalTime() {
+    return employeePresent * shilfTime;
+}
+}
